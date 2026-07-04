@@ -1,0 +1,13 @@
+{
+	"name": "DS_AZSQL_SRCB",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "LS_AZSQL_SRCB",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "AzureSqlTable",
+		"schema": []
+	},
+	"type": "Microsoft.DataFactory/factories/datasets"
+}
